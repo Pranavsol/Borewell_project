@@ -1,7 +1,8 @@
+sockets
+PyAudio
+serial
 Flask
-pyaudio
 opencv-python
 RPi.GPIO
 dht11
-serial
 picamera2
